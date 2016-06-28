@@ -1,0 +1,6 @@
+eclipse.preferences.version=1
+encoding//src/by/epam/service/Customer.java=UTF-8
+encoding//src/by/epam/service/CustomerService.java=UTF-8
+encoding//src/by/epam/service/impl/CustomerServiceImplPortBindingStub.java=UTF-8
+encoding//src/by/epam/service/impl/CustomerServiceImplService.java=UTF-8
+encoding//src/by/epam/service/impl/CustomerServiceImplServiceLocator.java=UTF-8
